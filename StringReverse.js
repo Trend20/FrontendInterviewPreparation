@@ -1,4 +1,4 @@
-// reverse s string without using the reverse() method.
+// reverse a string without using the reverse() method.
 
 function reverseString(str){
   let reversedString = "";
