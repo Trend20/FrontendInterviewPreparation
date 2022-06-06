@@ -18,5 +18,5 @@ reverseString(myName);
 
 // using the reverse() method
 function reverseString(str){
-  console.log(str.split(''.reverse().join('')));
+  console.log(str.split('').reverse().join(''));
 }
