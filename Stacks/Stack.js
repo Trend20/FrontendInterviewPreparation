@@ -10,4 +10,7 @@ pop => removes the recently added element that hs not been removed.
 
 A peek operation may also give access to the top of the stack without modifying it.
 
+Stack can be implemented by using either Array or LinkedList.
+
 */
+
